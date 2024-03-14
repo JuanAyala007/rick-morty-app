@@ -1,0 +1,15 @@
+h1, h2, h3, p, ul, hr {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body {
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+    font-family: "Rubik";
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}

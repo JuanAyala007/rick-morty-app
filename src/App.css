@@ -1,0 +1,36 @@
+.app {
+    background-color: #073138;
+}
+
+.banner img {
+    width: 100%;
+}
+.container-resident {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5em;
+}
+.err {
+    position: relative;
+}
+.err img {
+    width: 100%;
+}
+.banner-contain {
+  display: flex;
+
+}
+.banner-text {
+    display: flex;
+    position: absolute;
+    color: #ffffff;
+    background: #131518d5;
+    border: 5px solid #fff5;
+    border-radius: 0.3em;
+    top: 60%;
+    left: 48%;
+    transform: translate(-50%);
+    font-size: 15px;
+    padding: 1em;
+}
